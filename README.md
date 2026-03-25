@@ -5,8 +5,6 @@
 
 <details>
 
-[![spotify-github-profile])
-
 <details>
   
 <summary>Heavy WIP <33!! Come back next time heh...</summary>
